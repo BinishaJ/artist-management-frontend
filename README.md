@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Admin Panel for Artist Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- ReactJS with Tailwind CSS for Frontend
+- NodeJS and Express.js for Backend
+- PostgreSQL as Database
+- JSON Web Tokens (JWT) Bearer tokens
+- JOI for backend data validation
 
-## Available Scripts
+### Login Page
+![image](https://github.com/BinishaJ/cloco-task/assets/69308583/7fc62ce3-2bae-4692-abdb-6ae24d1a4ef4)
 
-In the project directory, you can run:
+### Registration Page
+![image](https://github.com/BinishaJ/cloco-task/assets/69308583/7a0eeea7-c65c-471d-9f5c-2d89789e908e)
 
-### `npm start`
+### CRUD for users
+![image](https://github.com/BinishaJ/cloco-task/assets/69308583/395cd40e-8440-4d68-981d-bed50e299663)
+![image](https://github.com/BinishaJ/cloco-task/assets/69308583/28732703-7553-4b9d-bcf4-0f07c6753db4)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### CRUD for artists
+![image](https://github.com/BinishaJ/cloco-task/assets/69308583/bd17f839-4a9b-40a1-bcf8-49da67b7075c)
+![image](https://github.com/BinishaJ/cloco-task/assets/69308583/85e1de23-05f3-4e12-b892-0312990474b7)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Songs CRUD for each artist
+![image](https://github.com/BinishaJ/cloco-task/assets/69308583/b81210b0-ddbc-4a1f-9c36-a7dc13dc0800)
+![image](https://github.com/BinishaJ/cloco-task/assets/69308583/c5be3824-b1b4-48d2-b814-24402f0260fc)
+![image](https://github.com/BinishaJ/cloco-task/assets/69308583/18eb9685-5d3f-48d8-8e36-ebf908d3daee)
